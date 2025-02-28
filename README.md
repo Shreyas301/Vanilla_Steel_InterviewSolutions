@@ -6,6 +6,9 @@ It contains solutions for Task1, Task2 and Task3
 * Import all three databases into the notebook page (supplier_data_1, supplier_data_2, supplier_data2)
 * Go to runtime and click Run All.
 
+## Instructions for Task 2:
+Link for Looker Dashboard: https://lookerstudio.google.com/s/ow1n7PdfJbo 
+
 ## Instruction on how to run Task 3 (Data Pipeline):
 * It is an .ipynb file so open google colab.
 * Import all three databases into the notebook page (supplier_data1, supplier_data2, supplier_data2, buyer_preferences)
